@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B9CFF" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-hussein-4b867b31a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B9CFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -183,14 +183,14 @@ Security labs, CTF write-ups and notes — **in progress**.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ENG-AHMEDHUS&bg_color=0D1117&color=8B9CFF&line=6C63FF&point=C9D1D9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=ENG-AHMEDHUS&theme=tokyonight&hide_border=true&background=0D1117&ring=8B9CFF&fire=8B9CFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=8B9CFF&sideNums=8B9CFF&dates=C9D1D9" alt="GitHub contribution streak" />
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-hussein-4b867b31a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Ahmed on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logoColor=white" alt="Connect with Ahmed on LinkedIn" />
   </a>
   <a href="https://github.com/ENG-AHMEDHUS">
     <img src="https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=8B9CFF" alt="GitHub Profile" />
