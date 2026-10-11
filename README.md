@@ -93,71 +93,97 @@ I'm a developer interested in building software applications and understanding h
 
 ## 🚀 Featured Projects
 
-### 💻 Software Development
+### 💻 DotAgency — Digital Agency Website
 
-**Project:** [Your Project Name](YOUR_PROJECT_URL)
+**Project:** [ENG-AHMEDHUS/DotAgency](https://github.com/ENG-AHMEDHUS/DotAgency)
 
-A software application designed to solve a real-world problem.
+A modern digital agency website built with React + Vite + Tailwind CSS, deployed on Vercel.
 
-- **My Role:** Describe the features you implemented.
-- **Tech Stack:** Java, JavaFX, SQL — replace with your actual technologies.
-- **Highlights:** Architecture, key features, and challenges solved.
+- **My Role:** Frontend development — components, responsive layout, routing and deployment.
+- **Tech Stack:** React, Vite, Tailwind CSS, JavaScript, Vercel.
+- **Highlights:** Clean component architecture, responsive UI, live production deployment.
 
-[🔗 View Repository](YOUR_PROJECT_URL)
-
----
-
-### 🤝 Team Collaboration
-
-**Project:** [Your Team Project](YOUR_TEAM_PROJECT_URL)
-
-A collaborative project developed with a team.
-
-- **My Contributions:** Describe the code and features you worked on.
-- **Collaboration:** Git, branches, commits, and pull requests.
-- **Highlights:** Link to your merged pull requests.
-
-[🔗 Original Repository](YOUR_TEAM_PROJECT_URL) · [My Pull Requests](YOUR_PULL_REQUESTS_URL)
+[🔗 View Repository](https://github.com/ENG-AHMEDHUS/DotAgency) · [🌐 Live Demo](https://dot-agency.vercel.app)
 
 ---
 
-### 🌐 Web Application Security
+### 🛍️ Dokan_Shop — E-Commerce Frontend
 
-**Project:** [Your Security Repository](YOUR_SECURITY_PROJECT_URL)
+**Project:** [ENG-AHMEDHUS/Dokan_Shop](https://github.com/ENG-AHMEDHUS/Dokan_Shop)
 
-Notes and practical exercises from authorized security labs.
+A multi-page e-commerce frontend (Men, Women, Kids, Accessories) with cart, login/sign-up pages.
 
-- **Topics:** XSS, SQL Injection, SSRF, CSRF, and access control.
-- **Practice:** Vulnerability analysis and remediation.
-- **Documentation:** Technical notes and lab write-ups.
+- **My Role:** Frontend development — HTML/CSS/JS pages, shop layout, cart logic.
+- **Tech Stack:** HTML5, CSS3, JavaScript, Vercel.
+- **Highlights:** Full shop flow, category pages, responsive design.
 
-[🔗 View Repository](YOUR_SECURITY_PROJECT_URL)
+[🔗 View Repository](https://github.com/ENG-AHMEDHUS/Dokan_Shop) · [🌐 Live Demo](https://dokan-shop25.vercel.app)
 
 ---
 
-### 🖧 Network Security & CTFs
+### 🤝 Team Collaboration — SkyTrip Flight Booking
 
-**Project:** [Your Network Security Repository](YOUR_NETWORK_PROJECT_URL)
+**Project:** [ENG-AHMEDHUS/SkyTrip](https://github.com/ENG-AHMEDHUS/SkyTrip) (frontend) + [ENG-AHMEDHUS/SkyTripBackEnd](https://github.com/ENG-AHMEDHUS/SkyTripBackEnd) (backend)
 
-Network security practice and CTF write-ups.
+A collaborative flight booking platform — search, compare, book flights, auth, bookings and e-tickets.
 
-- **Topics:** Network scanning and service enumeration.
-- **Practice:** Authorized labs and completed challenges.
-- **Documentation:** Methodology and lessons learned.
+- **My Contributions:** Team development via forks, branches, commits and pull requests.
+- **Collaboration:** Git, GitHub Flow, code review with team (forked from Mahmoud-Nasser1).
+- **Tech Stack:** JavaScript, React (frontend), Node.js/Express (backend).
 
-[🔗 View Repository](YOUR_NETWORK_PROJECT_URL)
+[🔗 Frontend](https://github.com/ENG-AHMEDHUS/SkyTrip) · [🔗 Backend](https://github.com/ENG-AHMEDHUS/SkyTripBackEnd)
+
+---
+
+### 🏦 Project-BMA-Bank — Desktop Banking App
+
+**Project:** [ENG-AHMEDHUS/Project-BMA-Bank](https://github.com/ENG-AHMEDHUS/Project-BMA-Bank)
+
+Desktop banking management app with accounts, deposits, withdrawals, transfers, transaction history and chatbot.
+
+- **My Role:** Team member — Java/JavaFX features, SQLite integration.
+- **Tech Stack:** Java, JavaFX, SQLite, Scene Builder, Git/GitHub.
+- **Highlights:** 3-layer architecture (UI / Business Logic / Data Access), ERD, secure transactions.
+
+[🔗 View Repository](https://github.com/ENG-AHMEDHUS/Project-BMA-Bank)
+
+---
+
+### 🔧 My-Backend — Node.js API
+
+**Project:** [ENG-AHMEDHUS/My-Backend](https://github.com/ENG-AHMEDHUS/My-Backend)
+
+REST API backend with controllers, routes, models, middleware, auth and file uploads.
+
+- **My Role:** Backend development — API structure, auth, validation.
+- **Tech Stack:** Node.js, Express.js, JavaScript.
+- **Highlights:** MVC-style folders, middleware, reusable utils.
+
+[🔗 View Repository](https://github.com/ENG-AHMEDHUS/My-Backend)
+
+---
+
+### 🌐 Web & Network Security Practice
+
+Security labs, CTF write-ups and notes — **in progress**.
+
+- **Topics:** XSS, SQLi, SSRF, CSRF, IDOR, JWT, Path Traversal, Nmap enumeration.
+- **Practice:** Authorized labs and CTF challenges only.
+- **Next:** I will publish sanitized notes/write-ups in a dedicated `security-labs` repo.
+
+> Want to see methodology? Check my pinned repos and contributions — write-ups coming soon.
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ENG-AHMEDHUS&show_icons=true&theme=tokyonight&title_color=8B9CFF&icon_color=8B9CFF&hide_border=true&bg_color=0D1117&text_color=C9D1D9" alt="Ahmed's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ENG-AHMEDHUS&layout=compact&theme=tokyonight&title_color=8B9CFF&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ENG-AHMEDHUS&show_icons=true&theme=tokyonight&title_color=8B9CFF&icon_color=8B9CFF&hide_border=true&bg_color=0D1117&text_color=C9D1D9" alt="Ahmed's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENG-AHMEDHUS&layout=compact&theme=tokyonight&title_color=8B9CFF&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=8" alt="Most used programming languages" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ENG-AHMEDHUS&bg_color=0D1117&color=8B9CFF&line=6C63FF&point=C9D1D9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ENG-AHMEDHUS&bg_color=0D1117&color=8B9CFF&line=6C63FF&point=C9D1D9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ## 🤝 Connect With Me
