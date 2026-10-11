@@ -183,7 +183,7 @@ Security labs, CTF write-ups and notes — **in progress**.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=ENG-AHMEDHUS&theme=tokyonight&hide_border=true&background=0D1117&ring=8B9CFF&fire=8B9CFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=8B9CFF&sideNums=8B9CFF&dates=C9D1D9" alt="GitHub contribution streak" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=ENG-AHMEDHUS&bg_color=0D1117&color=8B9CFF&line=6C63FF&point=C9D1D9&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ## 🤝 Connect With Me
